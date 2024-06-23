@@ -1,7 +1,5 @@
 # Male-Female Classification Project
 
-<img src="https://github.com/sankalpsaoji98/Male-Female-Classification-Project/assets/26198596/c8f36d1f-35a4-4dd7-8828-f27330ebfc40" alt="Male-Female Classification Project" width="10%">
-
 ## Introduction
 
 The Male-Female Classification Project uses machine learning techniques to classify images of male and female faces. This project leverages convolutional neural networks (CNNs) to build a robust and accurate gender classification model.
